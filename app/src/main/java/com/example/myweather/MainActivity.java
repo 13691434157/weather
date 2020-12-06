@@ -182,6 +182,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
     //获取天气信息
     private void queryWeatherCode(String citycode) {
 
